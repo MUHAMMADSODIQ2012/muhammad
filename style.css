@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 70px;
+
+}
+img{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+}
